@@ -85,4 +85,4 @@ pytest -v
 ```
 
 ## Developer
-Built by [Your Name] — transitioning from QA automation to Python backend development.
+Built by Nagashree — transitioning from QA automation to Python backend development.
